@@ -1,0 +1,70 @@
+h3{
+  color:cadetblue;
+  font-weight: bolder;
+}
+
+h5{
+    color: darkturquoise;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:800;
+    
+}
+
+body{
+    background-color: lightgray;
+}
+
+
+.p1{
+    color: black;
+    float: right;
+    font-size: medium;
+    font-weight: normal;
+}
+
+.card{
+    background-color:white;
+}
+
+.img1{
+    box-sizing: border-box;
+    display: block;
+    object-fit: contain; 
+    width: 40%;
+    height: 100%;
+}
+
+
+
+
+.a{
+    width: 100%;
+    height: 100%;
+    padding: 4px;
+    box-sizing: border-box;
+    display: block;
+    object-fit: contain;
+
+}
+
+.img-land{
+    float: left;
+   margin: 0px 0px 20px 20px;
+}
+
+h1{
+    color: cadetblue;
+}
+
+p{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.content {
+    padding-top: 20px;
+    padding-bottom: 100px;
+    margin-top: auto;
+    overflow: hidden;
+}
+
